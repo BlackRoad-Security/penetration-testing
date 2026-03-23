@@ -1,54 +1,20 @@
-# 🔐 Penetration Testing
+# penetration-testing
 
-**BlackRoad OS Security Testing Suite**
+Penetration testing tools and methodologies
 
-## Overview
+## Organization
 
-Comprehensive penetration testing tools and frameworks for BlackRoad OS infrastructure security audits.
+**BlackRoad-Security** — Security — audits, encryption, identity, WAF
 
-## Features
+## BlackRoad OS
 
-- Network penetration testing
-- Web application security testing
-- API security analysis
-- Infrastructure vulnerability assessment
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
-## Usage
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-Security) — This organization
 
-```bash
-# Run security audit
-./run-pentest.sh --target <target-host>
-```
+**Language:** Python
 
-## Security Notice
 
-⚠️ **AUTHORIZED USE ONLY**
-
-These tools are for authorized security testing of BlackRoad OS infrastructure only. Unauthorized use is strictly prohibited.
-
-## License
-
-PROPRIETARY - See LICENSE file
-
----
-
-**© 2025-2026 BlackRoad OS, Inc. All Rights Reserved.**
-
----
-
-## 📜 License & Copyright
-
-**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
-
-**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
-
-This software is NOT for commercial resale. Testing purposes only.
-
-### 🏢 Enterprise Scale:
-- 30,000 AI Agents
-- 30,000 Human Employees
-- CEO: Alexa Amundson
-
-**Contact:** blackroad.systems@gmail.com
-
-See [LICENSE](LICENSE) for complete terms.
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
